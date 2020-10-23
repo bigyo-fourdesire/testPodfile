@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies>
+	<androidPackages>
+		<androidPackage spec="com.android.support:support-annotations:28.0.0" />
+		<androidPackage spec="com.facebook.android:audience-network-sdk:5.10.1" />
+	</androidPackages>
+	<iosPods>
+		<iosPod name="FBAudienceNetwork" version="~&gt; 5.10.0" />
+		<iosPod name="Helpshift" version="7.7.1-withCampaigns">
+			<sources>
+				<source>
+					https://github.com/CocoaPods/Specs
+				</source>
+			</sources>
+		</iosPod>
+		<iosPod name="SQLCipher" version="4.2">
+			<sources>
+				<source>
+					https://github.com/CocoaPods/Specs
+				</source>
+			</sources>
+		</iosPod>
+	</iosPods>
+</dependencies>
